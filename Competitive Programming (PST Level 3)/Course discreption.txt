@@ -1,0 +1,42 @@
+Introduction
+This course aims to prepare students in competitive problem solving. 
+
+It will benefit students who want to compete in ICPC, invited high school students who want to compete in IOI, and students in general who aspire to excel in technical interviews of top IT companies. 
+
+
+
+It covers techniques for attacking and solving challenging computational problems. Fundamental algorithmic solving techniques covered include complete search, divide/reduce/transform and conquer, greedy, dynamic programming. Domain specific techniques like graph, mathematics-related, string processing, and computational geometry will also be covered. 
+
+
+
+Programming language libraries that are commonly used in problem solving will also be taught.
+
+Prerequisites
+INTRODUCTION TO PROGRAMMING IN C++
+OR DATA STRUCTURE, ALGORITHMS & OOP
+Syllabus
+Quickly Identify Problem Types 
+Art of Testing Code 
+Ad Hoc Problems 
+Data Structures with Built-in Libraries 
+Union-Find Disjoint Sets 
+Segment Tree 
+Binary Indexed Tree
+String Matching: Trie
+String Matching: KMP
+Complete Search (Iterative & Recursive)
+Divide and Conquer
+Greedy
+Dynamic Programming
+String Processing with Dynamic Programming
+Prime Numbers
+Greatest Common Divisor (GCD) & Least Common Multiple (LCM)
+Euler’s Totient (Phi) Function 
+Modulo Arithmetic
+Graph Traversal Algorithms
+DFS Applications
+Shortest Path Algorithms
+Minimum Spanning Tree
+Trees
+Eulerian Graph
+Strongly Connected Component 
