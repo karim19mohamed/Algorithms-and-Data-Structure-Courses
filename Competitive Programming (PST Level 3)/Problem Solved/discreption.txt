@@ -1,0 +1,4 @@
+These Problems are solved during the course in 10 contests on:
+1- UVA online Judge
+2- Codeforces
+3- Spoj
